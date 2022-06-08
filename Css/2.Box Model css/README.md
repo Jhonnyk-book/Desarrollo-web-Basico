@@ -6,5 +6,9 @@
 
 ### Contenido: 
 
-* Introduccion a Box model ()
-* Ancho Elemento Box model 
+* Introduccion a Box model (Margin, Border, Padding)
+* Ancho Elemento Box model (Top, Right, Bottom, Left, width(ancho) & height(Largo))
+* Outline & Offline.
+* Box-sazing.
+* max-width
+
