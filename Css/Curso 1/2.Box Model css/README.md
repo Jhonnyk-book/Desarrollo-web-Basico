@@ -11,4 +11,7 @@
 * Outline & Offline.
 * Box-sazing.
 * max-width
+* Propiedad margin: auto para centrar elementos en CSS
+* Propiedad inherit en CSS (propiedad que hereda de otra)
+* Concepto de margin collapse en CSS
 
