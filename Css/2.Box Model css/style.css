@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+h1{
+    text-align: center;
+    color:pink;
+}
+div{
+    /*
+    Esta etiquetado para que el box-sizing funcione correctamente
+    padding: 10px;
+    margin: 20px;
+    /El outline es un espacio que va entre el margin y el padding/
+    outline: 10px outset #adf;
+    /El outlin-offset es un espacio invisible(no se le puede poner color y solo del mismo tamaño en los lados)/
+    outline-offset: 10px;
+    */
+
+    border: 15px  15px 5px 3px;
+    border: 0px solid #457b9d;
+    background-color:#82bdee;    
+    width: 300px;
+    /*
+    Largo del contenido
+    height: 300px;
+    */
+
+    /*
+    - box-sizing sirve para no pasar el tamaño estrablecido del contenido
+    - Es necesario para esto que el padding y el margin esten en 0px; para su correcto funcionamiento
+    - outline y offset no sirven al aplicar box-sizing
+    */
+
+    box-sizing: border-box;
+}
