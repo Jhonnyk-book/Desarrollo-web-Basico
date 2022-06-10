@@ -3,10 +3,17 @@ body{
     /*
     background-color: dodgerblue;
     background-image: url("/img/fondo.png");
+
+    Para que la imagen no se repita:
     background-repeat: no-repeat;
+
+    
     background-position: right top;
     */
-    /*background-attachment: fixed;*/
+    /*
+    para mover la imagen mientras se baja
+    background-attachment: scroll;
+    */
     background-attachment: fixed;
     background: dodgerblue url("../img/fondo.png") no-repeat right top;
     background-size: cover;
