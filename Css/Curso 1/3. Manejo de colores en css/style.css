@@ -30,3 +30,19 @@ h1{
 .rgba{
     background-color:rgb(131,56,235,.5)
 }
+
+.hexadecimal{
+    background-color: #0091ad;
+}
+
+.hexa_trasparencia{
+    background-color: #0090ad88;
+}
+
+.hsl{
+    background-color: hsl(194, 100%, 50%);
+}
+
+.hsla{
+    background-color: hsla(0, 100%, 50%, 0.418);
+}
