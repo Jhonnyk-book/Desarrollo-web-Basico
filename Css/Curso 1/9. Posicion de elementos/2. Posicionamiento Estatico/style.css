@@ -4,7 +4,9 @@ h1{
 }
 
 div{
-    max-width: 50%;
+    position: static;
+    top: 115px;
+    left: ;
     border: 3px solid black;
     margin: auto;
 }
