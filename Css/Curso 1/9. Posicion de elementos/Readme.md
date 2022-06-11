@@ -2,4 +2,8 @@
 
 <p align="center">
 <img align="center" src="https://github.com/Jhonnyk-book/Desarrollo-web-Basico/blob/main/Css/Curso%201/9.%20Posicion%20de%20elementos/Tipos%20de%20posicionamiento.JPG" />
+<<<<<<< HEAD
 </p>
+=======
+</p>
+>>>>>>> 590734c6788e1a3b0249519310ba2dd0efbbee68
