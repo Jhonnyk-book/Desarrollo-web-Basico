@@ -21,9 +21,7 @@ div{
 .chat{
    /*Tambien queda el elemento pegado al scroll*/
     position: fixed;
-    
     bottom: 0px;
     right: 0px;
-    
     border: 3px solid crimson;
 }
