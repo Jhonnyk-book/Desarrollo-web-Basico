@@ -17,6 +17,7 @@ div.contenedor{
     
  }
 
+ /*El selector hijo (child) ">" escoge los selectores que solo estan dentro del selector padre (no sde otros selectores interno*/
  div.contenedor.hijo > p{
     background-color: #ffc6ff;
  }
