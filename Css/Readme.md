@@ -7,6 +7,4 @@
 ### Cursos:
 
 1. Universidad CSS - Aprende CSS desde Cero hasta Experto!
- **[Link](https://www.udemy.com/course/universidad-css-aprende-css-desde-cero-flexbox-responsive-web-desing/learn/lecture/26007606#overview)** 
-
-**[Diploma](https://udemy-certificate.s3.amazonaws.com/image/UC-554e3df2-0317-4edb-9a18-18563c4d08ed.jpg?v=1655336498000)**
+ **[Link](https://www.udemy.com/course/universidad-css-aprende-css-desde-cero-flexbox-responsive-web-desing/learn/lecture/26007606#overview)** **[Diploma](https://udemy-certificate.s3.amazonaws.com/image/UC-554e3df2-0317-4edb-9a18-18563c4d08ed.jpg?v=1655336498000)**
