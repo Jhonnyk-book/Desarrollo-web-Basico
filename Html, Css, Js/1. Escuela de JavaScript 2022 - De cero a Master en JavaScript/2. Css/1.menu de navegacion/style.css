@@ -1,0 +1,38 @@
+.menu{
+     background-color:aqua;
+}
+
+.menu-nav{
+    list-style: none;
+}
+
+.menu-nav__item{
+    display: inline-block;
+}
+
+.menu-nav__item a{
+    color: #fff;
+    text-decoration: none;
+}
+
+/*Seudo Clases*/
+
+.menu-nav__item a:hover{
+    color: red;
+    font-size: 2em;
+}
+
+
+.menu-nav__item a:active{
+    color:violet;
+}
+
+/*Seudo Elementos*/
+
+.menu-nav__item a::after{
+    content: " | ";
+}   
+
+.menu-nav__item a::before{
+    content: " | ";
+}
