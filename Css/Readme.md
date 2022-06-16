@@ -6,5 +6,5 @@
 
 ### Cursos:
 
-1.  **[Link](https://www.udemy.com/course/curso-completo-javascript/learn/quiz/5580394#overview)** Escuela de JavaScript 2022 - De cero a Master en JavaScript
- **[Diploma]()**
+1.  **[Link](https://www.udemy.com/course/curso-completo-javascript/learn/quiz/5580394#overview)** Universidad CSS - Aprende CSS desde Cero hasta Experto!
+ **[Diploma](https://udemy-certificate.s3.amazonaws.com/image/UC-554e3df2-0317-4edb-9a18-18563c4d08ed.jpg?v=1655336498000)**
