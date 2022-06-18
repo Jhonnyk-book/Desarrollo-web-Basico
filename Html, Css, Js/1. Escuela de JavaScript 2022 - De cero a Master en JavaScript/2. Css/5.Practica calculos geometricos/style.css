@@ -49,14 +49,14 @@ body{
     width:60%;
     margin: auto;
     overflow: hidden;
-
+    max-width: 1000px;
 }
 
 
 /*Contenedor cajas*/
 
 .box{
-    width: 340px;
+    width: 30%;
     height: 600px;
     border: 3px solid #253062;
     border-radius: 10px;
@@ -117,4 +117,43 @@ body{
 
 .box-main__btn:active{
     background-color: #42dee9;
+}
+
+/*Media Querys para realizar el sitio responivo*/
+
+@media screen and (max-width:1499px){
+    .figure{
+        width: 100%;
+    }
+}
+
+@media screen and (max-width:900px){
+    
+    .box{
+        margin:13px;
+    }
+}
+
+@media screen and (max-width:780px){
+    
+    .box{
+        margin:10px;
+    }
+}
+
+@media screen and (max-width:800px){
+    
+    .box{
+        width: 90%;
+        margin: 20px;
+        height: auto;
+    }
+
+    .header-title{
+        font-size: 20px;
+    }
+
+    .answer p{
+        font-size: 20px;
+    }
 }
