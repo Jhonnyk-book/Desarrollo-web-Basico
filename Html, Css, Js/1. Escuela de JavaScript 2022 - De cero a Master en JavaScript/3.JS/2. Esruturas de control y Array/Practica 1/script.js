@@ -29,9 +29,9 @@ if (consumo <=  100){
     descuento = consumo * 0.20;
 }
 
-let montoDecuento = consumo - descuento;
-let igv = montoDecuento * 0.19;
-let totalPagar = montoDecuento + igv;
+let montoDescuento = consumo - descuento;
+let igv = montoDescuento * 0.19;
+let totalPagar = montoDescuento + igv;
 
 //Salidda de datos
 document.write(`<pre>
