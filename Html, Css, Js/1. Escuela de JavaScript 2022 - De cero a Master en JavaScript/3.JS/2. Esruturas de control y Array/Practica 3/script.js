@@ -18,11 +18,11 @@ for(let n of numeros){
     let resultado = n * nRamdon;
 
     if(resultado % 2 === 0){
-        console.log(`${n} x ${nRamdon} ? ${resultado}`);
+        console.log(`${n} x ${nRamdon} = ${resultado}`);
         //Aqui se llama el array y se le llena con el resultado
         pares.push(resultado);
     }else{
-        console.log(`${n} x ${nRamdon} ? ${resultado}`);
+        console.log(`${n} x ${nRamdon} = ${resultado}`);
         impares.push(resultado);
     }
 }
