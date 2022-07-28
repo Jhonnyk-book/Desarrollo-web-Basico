@@ -48,3 +48,20 @@ log(posts.map(post => post.title));
 //Filter
  //Nos devuelve unicamente los posts donde se hable de angular
 log(posts.filter(post => post.tags.includes('angular')));
+
+//El metodo reduce
+
+log(posts.reduce((allTags, post)=> {
+    return [...allTags, ...post.tags]
+}, []));
+
+//Para que no haya contenido repetidos en un array
+//Se usa el metodo set
+log(posts.reduce((allTags, post)=> {
+    return Array.from(new Set([...allTags, ...post.tags]))
+}, []));
+
+//Tambien se puede hacer de otra forma 
+log(posts.reduce((allTags, post)=> {
+    return [...allTags, ...post.tags]
+}, []).filter((post, index, self)=> index === self.indexOf(post)));
